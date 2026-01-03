@@ -1,0 +1,11 @@
+variant,"('scaffolding_quality', 'mean')","('scaffolding_quality', 'std')","('scaffolding_quality', 'count')","('contextual_responsiveness', 'mean')","('contextual_responsiveness', 'std')","('contextual_responsiveness', 'count')","('helpfulness', 'mean')","('helpfulness', 'std')","('helpfulness', 'count')","('symbolic_strategy_use', 'mean')","('symbolic_strategy_use', 'std')","('symbolic_strategy_use', 'count')","('memory_conversation', 'mean')","('memory_conversation', 'std')","('memory_conversation', 'count')"
+C0_full__global_warming,3.33333,0.994236,30,4.2,0.924755,30,4.46667,0.571346,30,3.66667,0.994236,30,2.5,1.45626,30
+C0_full__moon_phases,3.72222,0.701472,36,4.58333,0.554205,36,4.80556,0.576663,36,4.08333,0.937321,36,3,1.19523,36
+C1_no_memory__global_warming,4,0.58722,30,4.36667,0.76489,30,4.16667,0.698932,30,3.63333,0.964305,30,3.36667,0.964305,30
+C1_no_memory__moon_phases,3.77778,0.72155,36,3.97222,0.774084,36,4,0.92582,36,3.47222,1.10805,36,2.91667,0.840918,36
+C2_no_fuzzy__global_warming,3.6,0.723974,30,4.56667,0.678911,30,4.6,0.621455,30,3.83333,0.874281,30,2.93333,1.11211,30
+C2_no_fuzzy__moon_phases,3.44444,0.734631,36,4.33333,0.676123,36,4.58333,0.603561,36,3.69444,0.786291,36,2.63889,1.09942,36
+C3_no_boundary__global_warming,3.63333,0.556053,30,4.53333,0.62881,30,4.6,0.621455,30,3.9,0.711967,30,2.93333,1.17248,30
+C3_no_boundary__moon_phases,3.58333,0.769972,36,4.33333,0.676123,36,4.52778,0.506309,36,3.55556,0.606839,36,2.72222,1.16155,36
+C4_vanilla__global_warming,2.96667,0.964305,30,4.1,0.884736,30,4.16667,0.74664,30,3.16667,1.01992,30,2.13333,1.10589,30
+C4_vanilla__moon_phases,3.36111,0.761682,36,4.47222,0.559904,36,4.36111,0.723198,36,3.36111,1.09942,36,2.41667,1.15573,36
